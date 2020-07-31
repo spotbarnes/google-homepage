@@ -1,1 +1,1 @@
-hiExercise in creating a Google Homepage lookalike :)
+Exercise in creating a Google Homepage lookalike :)
